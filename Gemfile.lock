@@ -1,3 +1,9 @@
+PATH
+  remote: awful
+  specs:
+    awful (0.1.0)
+      jekyll (~> 4.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -75,6 +81,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  awful!
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
